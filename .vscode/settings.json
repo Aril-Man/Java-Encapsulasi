@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 20,
+    "window.zoomLevel": 0.2,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Dracula",
+    "terminal.integrated.fontSize": 19,
+}
